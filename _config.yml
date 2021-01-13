@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Neurogenic Communication Intervention (NCI) Laboratory"
 title_separator          : "-"
+subtitle                 : "Western Michigan University"
 name                     : &name "Suma Devanga"
 description              : &description "personal description"
 url                      : https://sumadevanga.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -83,7 +84,7 @@ author:
   name             : "Suma Ramesh Devanga, Ph.D., CCC-SLP"
   avatar           : "profile.jpg"
   bio              : "Assistant Professor and Speech Language Pathologist"
-  location         : "Location"
+  location         :
   employer         : "Western Michigan University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=7ClrzXgAAAAJ&hl=en"
@@ -175,7 +176,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  collaborations:
+    output: true
+    permalink: /:collection/:path/
+  people:
     output: true
     permalink: /:collection/:path/
   publications:
