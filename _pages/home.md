@@ -19,14 +19,14 @@ feature_row:
     alt: "Lab Students"
     title: "Join the Lab"
     excerpt: "Find out more information on how to join our team at the NCI lab"
-    url: "/docs/layouts/"
+    url: "/for-students/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: care.jpg
     alt: "patients"
     title: "For Patients"
     excerpt: "Learn more about how you can be a research participant"
-    url: "/docs/license/"
+    url: "/for-patients/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
