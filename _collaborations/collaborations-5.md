@@ -4,7 +4,7 @@ excerpt: "St. Cloud State University"
 collection: collaborations
 ---
 
-<img src='/images/bio-photo.jpg'>
+<img src='/images/mili.png'>
 
 [More Information](https://www5.stcloudstate.edu/search/Peopleresults.aspx?guid=50a17097-e325-42f0-a8ae-fb0ddd177d9f)
 
