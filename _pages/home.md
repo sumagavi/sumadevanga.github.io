@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: mm-home-page-feature.jpg
+  # overlay_image: mm-home-page-feature.jpg
 excerpt: >
   We aim to bridge the clinical-functional gap in managing acquired neurogenic communication disorders by studying intervention approaches that better help individuals with aphasia and other neurogenic communication disorders to communicate in everyday life. Our research typically involves discourse analyses of conversation samples from target participants and their communication partners in different settings.<br />
 feature_row:
